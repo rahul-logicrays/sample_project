@@ -20,7 +20,8 @@ minimum_keys = [key for key in data if data[key]==minimum_value]
 
 #print the minimum keys
 print("".join(minimum_keys))
-
+print("".join(minimum_keys))
+print("======================================================")
 # data_list =[]
 # if 1 in data.values():
     
